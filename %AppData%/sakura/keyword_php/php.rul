@@ -1,0 +1,16 @@
+function /// 関数
+class /// クラス
+public function /// メソッド
+public static function /// メソッド
+private function /// メソッド
+use /// USE
+require /// クラス
+require_once /// クラス
+use /// クラス
+use /// クラス
+use /// クラス
+use /// クラス
+use /// クラス
+namespace /// 名前空間
+const /// 定数宣言
+private /// 定数宣言
