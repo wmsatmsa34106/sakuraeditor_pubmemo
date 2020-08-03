@@ -1,0 +1,2 @@
+# sakuraeditor
+ SakuraEditorMyLocalSetting
