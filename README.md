@@ -17,3 +17,13 @@
         1. a
         1. a
         1. a
+
+- adding command.
+    1. streams/ Windows Sysinternals
+        - https://docs.microsoft.com/ja-jp/previous-versions/bb897440(v=msdn.10)?redirectedfrom=MSDN
+        - article.
+            - https://www.atmarkit.co.jp/ait/articles/1001/14/news112.html
+    1. build & exec
+    
+
+
