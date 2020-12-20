@@ -25,5 +25,7 @@
             - https://www.atmarkit.co.jp/ait/articles/1001/14/news112.html
     1. build & exec
     
+    1. work
+        - ./tmp
 
 
