@@ -10,9 +10,9 @@
         - https://github.com/sakura-editor/sakura#ci-build-appveyor
     - topic
         1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/36926303
-           - ステータスバーにフォントサイズを表示する
+           - ????????????????????
         1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/36578099
-           - ファイル保存時の既定のファイル名を日時にする
+           - ??????????????????????
         1. a
         1. a
         1. a
