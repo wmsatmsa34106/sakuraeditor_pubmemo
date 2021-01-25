@@ -9,12 +9,14 @@
     - Offical md link
         - https://github.com/sakura-editor/sakura#ci-build-appveyor
     - topic
+        1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/37420094
+           - build.rev.1.0.3380 ... tchar_printfを除去する
         1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/37407600
-           - iniファイルパスの取得関数を追加
+           - build.rev.1.0.3358 ... iniファイルパスの取得関数を追加
         1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/36926303
-           - ステータスバーにフォントサイズを表示する
+           - build.rev.1.0.3309 ... ステータスバーにフォントサイズを表示する
         1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/36578099
-           - ファイル保存時の既定のファイル名を日時にする
+           - build.rev.1.0.3275 ... ファイル保存時の既定のファイル名を日時にする
         1. a
         1. a
         1. a
