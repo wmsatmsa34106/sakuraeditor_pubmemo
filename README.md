@@ -9,6 +9,8 @@
     - Offical md link
         - https://github.com/sakura-editor/sakura#ci-build-appveyor
     - topic
+        1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/37407600
+           - iniファイルパスの取得関数を追加
         1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/36926303
            - ステータスバーにフォントサイズを表示する
         1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/36578099
