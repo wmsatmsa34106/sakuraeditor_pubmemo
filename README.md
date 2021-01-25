@@ -28,8 +28,14 @@
         - article.
             - https://www.atmarkit.co.jp/ait/articles/1001/14/news112.html
     1. build & exec
-    
+        - PUSHD %ClonePath%\Downloads
+        - %LocalAppData%\Tools\Streams\streams64 -s -d *
     1. work
         - ./tmp
     1. memo
         - ./readme.memo.md
+
+- etc.
+    - Windows Task Bar Path
+        - "%AppData%\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar"
+            - cf . https://www.pasoble.jp/windows/10/pindome-basyo.html
