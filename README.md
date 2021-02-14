@@ -25,6 +25,7 @@
 - adding command.
     1. streams/ Windows Sysinternals
         - https://docs.microsoft.com/ja-jp/previous-versions/bb897440(v=msdn.10)?redirectedfrom=MSDN
+        - https://docs.microsoft.com/ja-jp/sysinternals/downloads/streams
         - article.
             - https://www.atmarkit.co.jp/ait/articles/1001/14/news112.html
     1. build & exec
