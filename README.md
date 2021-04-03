@@ -9,8 +9,8 @@
     - Offical md link
         - https://github.com/sakura-editor/sakura#ci-build-appveyor
     - topic / [topic, build list's](./README.topic.md)
-        1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/38317744
-           - build.rev.1.0.3572 ... 指摘対応(ソースの文字列長も考慮する)
+        1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/38535704
+           - build.rev.1.0.3635 ... メモリDCを利用しない場合はアンダーライン描画を行描画の直後に行う事でちらつきを抑える
 
 - adding command.
     1. streams/ Windows Sysinternals

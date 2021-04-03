@@ -1,4 +1,6 @@
 1. [back](./README.md)
+1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/38535704
+   - build.rev.1.0.3635 ... メモリDCを利用しない場合はアンダーライン描画を行描画の直後に行う事でちらつきを抑える
 1. https://ci.appveyor.com/project/sakuraeditor/sakura/builds/38317744
    - build.rev.1.0.3572 ... 指摘対応(ソースの文字列長も考慮する)
    - そのほか、前リビジョンとの間で興味深いコミット/ プルリク
